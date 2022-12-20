@@ -1,2 +1,2 @@
-[wworkspace]
+[workspace]
 members = ["deuterium", "deuterium-cli"]
