@@ -6,7 +6,7 @@ pub enum Opcodes {
     GETUPVAL,
     GETGLOBAL,
     GETTABLE,
-    SETGLOBAL
+    SETGLOBAL,
     SETUPVAL,
     SETTABLE,
     NEWTABLE,

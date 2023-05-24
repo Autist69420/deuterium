@@ -1,2 +1,5 @@
 [workspace]
-members = ["deuterium", "deuterium-cli"]
+members = [
+    "deuterium",
+    "deuterium-cli"
+]
